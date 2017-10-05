@@ -1,0 +1,27 @@
+                                             ARCIDIOCESI DI PESCARA-PENNE
+
+PARROCCHIA ${parrocchia} Indirizzo ${indirizzo} Comune ${comune} Cap ${cap} Provincia ${provincia}
+
+                      CERTIFICATO DI MATRIMONIO 
+
+Dal Registro degli atti di Matrimonio (vol.${volume}   num.${numero} ) risulta che: 
+
+nel giorno ${giorno} del mese ${mese} anno ${anno}
+
+in ${citta} contrassero matrimonio 
+
+il Sig. ${nomeCompletoSposo}
+
+nato a ${luogoNascitaSposo} il ${dataNascitaSposo}
+
+e la Sig. ${nomeCompletoSposa}
+
+nata a ${luogoNascitaSposo}  il ${dataNascitaSposa} 
+
+Si rilascia il presente per______________________________________ 
+
+__________________________________________________________ 
+Data  ${today}
+il Parroco 
+${nomeCompletoParroco}
+ L.S. 
